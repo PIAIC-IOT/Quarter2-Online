@@ -5,4 +5,4 @@ name = "registers"
 version = "0.1.0"
 
 [dependencies]
-aux7 = { path = "auxiliary" }
+aux = { path = "auxiliary" }
